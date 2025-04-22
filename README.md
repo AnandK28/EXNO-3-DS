@@ -1,6 +1,4 @@
 # EXNO-3-DS
-## DEVELOPED BY: PRIYAN V
-## REG NO: 212224230211
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
